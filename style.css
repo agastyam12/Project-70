@@ -1,0 +1,46 @@
+#icon {
+    height:50px;
+    width:50px;
+}
+body{
+    text-align:center;
+}
+marquee{
+    background-color:aquamarine;
+}
+#video{
+    width:100%;
+}
+#principle{
+    width:200px;
+    border-radius:360px;
+    margin-left:300px;
+}
+.my_nav_bar {
+    position:sticky;
+    top:0;
+    z-index:9999;
+}
+html{
+ scroll-behavior:smooth;
+}
+#title{
+    color:azure;
+    font-size:30px;
+}
+.life_mainDiv img {
+    width:100%;
+}
+.life_mainDiv h5{
+    text-align:center;
+}
+.life_mainDiv p{
+    text-align:center;
+}
+.life_mainDiv{
+    float:left;
+    width:33.33%;
+    padding:20px;
+    border:1px solid ##808080;
+}
+
